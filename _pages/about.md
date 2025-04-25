@@ -173,19 +173,27 @@ I am acompanied by:
   <div class="band-row">
     <div class="band-item">
       <img src="/images/yoasobi.png" alt="Band 1">
-      <div class="band-caption">[Yoasobi](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj)<br></div>
+      <div class="band-caption">
+        <a href="https://open.spotify.com/artist/64tJ2EAv1RGUaZqc4iOCyj" target="_blank">Yoasobi</a>
+      </div>
     </div>
     <div class="band-item">
-      <img src="/images/zutomayo.png" alt="Band 2">
-      <div class="band-caption">[ずっと真夜中でいいのに。](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj)<br></div>
+      <img src="/images/ztmy.png" alt="Band 2">
+      <div class="band-caption">
+        <a href="https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj" target="_blank">ずっと真夜中でいいのに。</a>
+      </div>
     </div>
     <div class="band-item">
       <img src="/images/kohana.png" alt="Band 3">
-      <div class="band-caption">[こはならむ](https://open.spotify.com/artist/1I24D95GZP1Nr9hVsiOLmw)<br></div>
+      <div class="band-caption">
+         <a href="https://open.spotify.com/artist/1I24D95GZP1Nr9hVsiOLmw" target="_blank">こはならむ</a>
+      </div>
     </div>
     <div class="band-item">
       <img src="/images/rainbow.png" alt="Band 4">
-      <div class="band-caption">[上海彩虹室内合唱团](https://space.bilibili.com/21562856?spm_id_from=333.337.0.0)<br></div>
+      <div class="band-caption">
+        <a href="https://space.bilibili.com/21562856?spm_id_from=333.337.0.0" target="_blank">上海彩虹室内合唱团</a>
+      </div>
     </div>
   </div>
 </div>
