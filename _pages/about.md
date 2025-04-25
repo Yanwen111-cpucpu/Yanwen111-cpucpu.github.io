@@ -11,7 +11,7 @@ I'm currently a Master student from  [The Department of Mechanical Engineering](
 
 Before my journey at Berkeley, I received my Bachelor's degree from [School of Mechanical and Engineering](https://me.sjtu.edu.cn/), Qian Xuesen Class at [Shanghai Jiaotong University](https://www.sjtu.edu.cn/). After graduation, I was pursuing a Master's degree in Finance from [SAIF](https://www.saif.sjtu.edu.cn/) at Shanghai Jiaotong University and then dropped out.
 
-I also interned in [Grasp Lab at Zhejiang University](https://grasplab2022.github.io/) and robotics startup [Maxinsghts](https://www.maxinsights.ai/).
+I also interned in [Grasp Lab at Zhejiang University](https://grasplab2022.github.io/) and robotics startup [Maxinsights](https://www.maxinsights.ai/).
 
 I spent most of time doing these:
 ======
@@ -73,6 +73,7 @@ It turns out that high-fidelity rendering improves success rate in final deploym
 We made cool prototypes, while there are no pics here for confidentiality reasons.
 
 -----
+
 
 ### 🤖 Tendon-driven Dexterous Hand and Wearable Finger
 
