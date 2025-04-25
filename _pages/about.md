@@ -7,19 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a Master student from  [The Department of Mechanical Engineering](https://me.berkeley.edu/)) at [UC Berkeley](https://www.berkeley.edu/). Robotics bimanual manipulation, data collection interface are two fields I'm working on. I'm fortunate to cooperate with PhDs and postdocs in [MSC Lab](https://msc.berkeley.edu/), which is led by [Prof.Masayoshi Tomizuka](https://me.berkeley.edu/people/masayoshi-tomizuka/).
+I'm currently a Master student from  [The Department of Mechanical Engineering](https://me.berkeley.edu/) at [UC Berkeley](https://www.berkeley.edu/). Robotics bimanual manipulation, data collection interface are two fields I'm working on. I'm fortunate to cooperate with PhDs and postdocs in [MSC Lab](https://msc.berkeley.edu/) led by [Prof.Masayoshi Tomizuka](https://me.berkeley.edu/people/masayoshi-tomizuka/).
 
-Before my journey at Berkeley, I received my Bachelor's degree from [school of Mechanicall and Engineering](https://me.sjtu.edu.cn/), Qian Xuesen Class at [Shanghai Jiaotong University](https://www.sjtu.edu.cn/). After graduation, I was pursuing a Master's degree in Finance from [SAIF](https://www.saif.sjtu.edu.cn/) at Shanghai Jiaotong University and then dropped out.
+Before my journey at Berkeley, I received my Bachelor's degree from [School of Mechanical and Engineering](https://me.sjtu.edu.cn/), Qian Xuesen Class at [Shanghai Jiaotong University](https://www.sjtu.edu.cn/). After graduation, I was pursuing a Master's degree in Finance from [SAIF](https://www.saif.sjtu.edu.cn/) at Shanghai Jiaotong University and then dropped out.
 
 I also interned in [Grasp Lab at Zhejiang University](https://grasplab2022.github.io/) and robotics startup [Maxinsghts](https://www.maxinsights.ai/).
 
-A data-driven personal website
+I spent most of time doing these:
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
-Getting started
+
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
