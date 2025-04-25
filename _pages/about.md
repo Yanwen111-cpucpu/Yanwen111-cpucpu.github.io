@@ -29,12 +29,12 @@ We designed a GELLO-based robotics teleop decive with a torque-enabled scroll wh
 It turns out that high-fidelity rendering improves success rate in final deployment, and force-feedback speeds up the demonstration process.
 <div class="flex-container">
   <div class="left-image">
-    <img src="/images/left.gif" alt="左侧动图">
+    <img src="/images/sim_collection.gif" alt="左侧动图">
   </div>
   <div class="right-column">
-    <img src="/images/right1.gif" alt="右上动图">
-    <img src="/images/right2.gif" alt="右中动图">
-    <img src="/images/right3.gif" alt="右下动图">
+    <img src="/images/render1.gif" alt="右上动图">
+    <img src="/images/render2.gif" alt="右中动图">
+    <img src="/images/render3.gif" alt="右下动图">
   </div>
 </div>
 
