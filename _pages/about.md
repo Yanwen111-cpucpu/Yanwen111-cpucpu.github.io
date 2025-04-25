@@ -144,6 +144,7 @@ I am acompanied by:
 .band-section {
   text-align: center;
   margin-top: 40px;
+  font-family: 'Segoe UI', 'Helvetica Neue', sans-serif;
 }
 
 .band-row {
@@ -154,20 +155,34 @@ I am acompanied by:
 }
 
 .band-item {
-  max-width: 150px;
+  max-width: 140px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .band-item img {
-  width: 100%;
-  border-radius: 50%; /* 圆形头像 */
-  box-shadow: 0 0 10px rgba(0,0,0,0.2);
+  width: 120px;
+  height: 120px;
+  object-fit: cover;       /* 裁剪多余，确保一致大小 */
+  border-radius: 50%;      /* 圆形头像 */
+  box-shadow: 0 0 10px rgba(0,0,0,0.3);
+  margin-bottom: 10px;
 }
 
-.band-caption {
-  margin-top: 10px;
-  font-weight: 500;
+.band-caption a {
+  font-weight: 600;
+  font-size: 15px;
+  color: #00bcd4;  /* 清新蓝 */
+  text-decoration: none;
+  line-height: 1.4;
+}
+
+.band-caption a:hover {
+  text-decoration: underline;
 }
 </style>
+
 
 <div class="band-section">
   <div class="band-row">
