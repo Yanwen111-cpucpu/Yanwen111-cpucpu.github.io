@@ -23,9 +23,10 @@ Here is a demo of a bimanual robot performing a bottle cap twisting task:
 
 ---
 
-### 📦 Sim-to-Real Data Collection Interface
+### 📦 Few-shot Sim2Real with Force-feedback Teleop Interfeace
 
-Here is a demonstration of how we collect large-scale robot demonstrations using our teleoperation setup:
+We designed a GELLO-based robotics teleop decive with a torque-enabled scroll wheel as end effector, collecting most of data in Sim of 3-level rendering.
+It turns out that high-fidelity rendering improves success rate in final deployment, and force-feedback speeds up the demonstration process.
 
 ![Teleoperation](images/data_collection.gif)
 
