@@ -17,7 +17,9 @@ I spent most of time doing these:
 ======
 ### 🤖 Tendon-driven Dexterous Hand and Wearable Finger
 
-Here is a demo of a bimanual robot performing a bottle cap twisting task:
+Each finger has flexion and lateral DoF. Torsion springs are incorporated into each joint. But the current configuration has limited payload.
+
+It's really a maddening job to assemble tendon.
 
 <style>
 .flex-container {
