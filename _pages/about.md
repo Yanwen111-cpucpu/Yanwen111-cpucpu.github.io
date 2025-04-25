@@ -35,10 +35,20 @@ It turns out that high-fidelity rendering improves success rate in final deploym
   gap: 20px;
 }
 
-.left-image img {
-  width: 300px;
-  height: auto;
+.left-image {
+  display: flex;
+  align-items: center; /* 垂直居中 */
+  justify-content: center;
+  height: 100%; /* 必要时可手动指定为固定高度 */
 }
+
+.left-image img {
+  width: 500px; /* ← 你想要的放大比例，可改为 600px 等 */
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px; /* 可选：加点圆角美观些 */
+}
+
 
 .right-column {
   display: flex;
