@@ -27,8 +27,11 @@ Here is a demo of a bimanual robot performing a bottle cap twisting task:
 
 We designed a GELLO-based robotics teleop decive with a torque-enabled scroll wheel as end effector, collecting most of data in Sim of 3-level rendering.
 It turns out that high-fidelity rendering improves success rate in final deployment, and force-feedback speeds up the demonstration process.
-
-![Teleoperation](images/data_collection.gif)
+<p align="center">
+  <img src="/images/sim_collection.gif" width="45%" alt="Demonstration in Sim">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="/images/diff_render.gif" width="45%" alt="3-level Rendering">
+</p>
 
 
 Site-wide configuration
