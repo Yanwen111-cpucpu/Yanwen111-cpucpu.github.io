@@ -189,7 +189,7 @@ I am acompanied by:
     <div class="band-item">
       <img src="/images/yoasobi.png" alt="Band 1">
       <div class="band-caption">
-        <a href="https://open.spotify.com/artist/64tJ2EAv1RGUaZqc4iOCyj" target="_blank">Yoasobi</a>
+        <a href="https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj" target="_blank">YOASOBI</a>
       </div>
     </div>
     <div class="band-item">
