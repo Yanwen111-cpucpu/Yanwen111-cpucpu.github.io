@@ -22,7 +22,7 @@ repository               : "Yanwen111-cpucpu/Yanwen111-cpucpu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "self.png"
   name             : "Yanwen Zou"
   pronouns         : # example: "she/her"  
   bio              : "Robitcs MEng @UC Berkeley｜BE @SJTU ｜SAIF 23"
