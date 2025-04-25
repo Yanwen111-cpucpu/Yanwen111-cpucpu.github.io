@@ -126,7 +126,13 @@ It's really a maddening job to assemble tendon.
 
 ---
 
+### ✈️ Amphibious Fixed-wing Aircraft
 
+An undergraduate class project. We designed the turbines to adapt to water and air, and integrated the system based on open source flight control board. 
+
+It hit a tree during takeoff, but we believe it could fly.
+
+<img src="/images/plane.png" width="60%">
 
 Site-wide configuration
 ------
