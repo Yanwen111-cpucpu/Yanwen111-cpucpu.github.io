@@ -1,13 +1,17 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I'm currently a Master student from  [The Department of Mechanical Engineering](https://me.berkeley.edu/)) at [UC Berkeley](https://www.berkeley.edu/). Robotics bimanual manipulation, data collection interface are two fields I'm working on. I'm fortunate to cooperate with PhDs and postdocs in [MSC Lab](https://msc.berkeley.edu/), which is led by [Prof.Masayoshi Tomizuka](https://me.berkeley.edu/people/masayoshi-tomizuka/).
+
+Before my journey at Berkeley, I received my Bachelor's degree from [school of Mechanicall and Engineering](https://me.sjtu.edu.cn/), Qian Xuesen Class at [Shanghai Jiaotong University](https://www.sjtu.edu.cn/). After graduation, I was pursuing a Master's degree in Finance from [SAIF](https://www.saif.sjtu.edu.cn/) at Shanghai Jiaotong University and then dropped out.
+
+I also interned in robotics startup [Maxinsghts](https://www.maxinsights.ai/) and [Grasp Lab at Zhejiang University](https://grasplab2022.github.io/).
 
 A data-driven personal website
 ======
