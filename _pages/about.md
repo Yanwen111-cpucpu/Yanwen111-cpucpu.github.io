@@ -68,7 +68,7 @@ It turns out that high-fidelity rendering improves success rate in final deploym
 
 -----
 
-### 📦 Bimanual Exoskeleton for Robotics Data Collection
+### 🦾 Bimanual Exoskeleton for Robotics Data Collection
 
 We made cool prototypes, while there are no pics here for confidentiality reasons.
 
@@ -132,7 +132,7 @@ An undergraduate class project. We designed the turbines to adapt to water and a
 
 It hit a tree during takeoff, but we believe it could fly.
 
-<img src="/images/plane.png" width="60%">
+<img src="/images/plane.png" width="40%">
 
 Site-wide configuration
 ------
