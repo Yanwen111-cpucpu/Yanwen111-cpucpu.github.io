@@ -11,7 +11,7 @@ I'm currently a Master student from  [The Department of Mechanical Engineering](
 
 Before my journey at Berkeley, I received my Bachelor's degree from [school of Mechanicall and Engineering](https://me.sjtu.edu.cn/), Qian Xuesen Class at [Shanghai Jiaotong University](https://www.sjtu.edu.cn/). After graduation, I was pursuing a Master's degree in Finance from [SAIF](https://www.saif.sjtu.edu.cn/) at Shanghai Jiaotong University and then dropped out.
 
-I also interned in robotics startup [Maxinsghts](https://www.maxinsights.ai/) and [Grasp Lab at Zhejiang University](https://grasplab2022.github.io/).
+I also interned in [Grasp Lab at Zhejiang University](https://grasplab2022.github.io/) and robotics startup [Maxinsghts](https://www.maxinsights.ai/).
 
 A data-driven personal website
 ======
