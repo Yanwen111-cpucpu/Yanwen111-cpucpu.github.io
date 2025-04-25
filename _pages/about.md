@@ -115,7 +115,7 @@ It's really a maddening job to assemble tendon.
 
 <div class="flex-container">
   <div class="left-image">
-    <img src="/images/hand_cad.png">
+    <img src="/images/hand_CAD.png">
   </div>
   <div class="right-column">
     <img src="/images/hand_act.png">
