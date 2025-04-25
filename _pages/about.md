@@ -66,6 +66,11 @@ It turns out that high-fidelity rendering improves success rate in final deploym
   </div>
 </div>
 
+-----
+
+### 📦 Bimanual Exoskeleton for Robotics Data Collection
+
+We made cool prototypes, while there are no pics here for confidentiality reasons.
 
 ### 🤖 Tendon-driven Dexterous Hand and Wearable Finger
 
@@ -89,7 +94,7 @@ It's really a maddening job to assemble tendon.
 }
 
 .left-image img {
-  width: 500px; /* ← 你想要的放大比例，可改为 600px 等 */
+  width: 300px; /* ← 你想要的放大比例，可改为 600px 等 */
   max-width: 100%;
   height: auto;
   border-radius: 10px; /* 可选：加点圆角美观些 */
@@ -110,7 +115,7 @@ It's really a maddening job to assemble tendon.
 
 <div class="flex-container">
   <div class="left-image">
-    <img src="/images/hand_CAD.png">
+    <img src="/images/hand_cad.png">
   </div>
   <div class="right-column">
     <img src="/images/hand_act.png">
