@@ -56,7 +56,7 @@ Here is a demo of a bimanual robot performing a bottle cap twisting task:
 
 <div class="flex-container">
   <div class="left-image">
-    <img src="/images/hand_cad.gif"">
+    <img src="/images/hand_cad.png">
   </div>
   <div class="right-column">
     <img src="/images/hand_act.png">
