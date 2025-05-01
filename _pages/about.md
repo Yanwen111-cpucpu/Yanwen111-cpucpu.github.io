@@ -18,8 +18,7 @@ I spent most of time doing these:
 
 ### 📦 Few-shot Sim2Real with Force-feedback Teleop Interfeace
 
-We designed a GELLO-based robotics teleop decive with a torque-enabled scroll wheel as end effector, collecting most of data in Sim of 3-level rendering.
-It turns out that high-fidelity rendering improves success rate in final deployment, and force-feedback speeds up the demonstration process.
+Submitted to IROS 2025, currently stealth.
 <style>
 .flex-container {
   display: flex;
@@ -54,7 +53,7 @@ It turns out that high-fidelity rendering improves success rate in final deploym
   height: auto;
 }
 </style>
-
+<!-- 
 <div class="flex-container">
   <div class="left-image">
     <img src="/images/sim_collection.gif" alt="左侧动图">
@@ -65,7 +64,7 @@ It turns out that high-fidelity rendering improves success rate in final deploym
     <img src="/images/render3.gif" alt="右下动图">
   </div>
 </div>
-
+-->
 -----
 
 ### 🦾 Bimanual Exoskeleton for Robotics Data Collection
