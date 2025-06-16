@@ -16,57 +16,6 @@ I also interned in [Grasp Lab at Zhejiang University](https://grasplab2022.githu
 I spent most of time doing these:
 ======
 
-### 📦 Few-shot Sim2Real with Force-feedback Teleop Interfeace
-
-Submitted to IROS 2025, currently stealth.
-<style>
-.flex-container {
-  display: flex;
-  justify-content: center;
-  align-items: flex-start;
-  gap: 20px;
-}
-
-.left-image {
-  display: flex;
-  align-items: center; /* 垂直居中 */
-  justify-content: center;
-  height: 100%; /* 必要时可手动指定为固定高度 */
-}
-
-.left-image img {
-  width: 500px; /* ← 你想要的放大比例，可改为 600px 等 */
-  max-width: 100%;
-  height: auto;
-  border-radius: 10px; /* 可选：加点圆角美观些 */
-}
-
-
-.right-column {
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-}
-
-.right-column img {
-  width: 300px;
-  height: auto;
-}
-</style>
-<!-- 
-<div class="flex-container">
-  <div class="left-image">
-    <img src="/images/sim_collection.gif" alt="左侧动图">
-  </div>
-  <div class="right-column">
-    <img src="/images/render1.gif" alt="右上动图">
-    <img src="/images/render2.gif" alt="右中动图">
-    <img src="/images/render3.gif" alt="右下动图">
-  </div>
-</div>
--->
------
-
 ### 🦾 Bimanual Exoskeleton for Robotics Data Collection
 
 We made cool prototypes, while there are no pics here for confidentiality reasons.
